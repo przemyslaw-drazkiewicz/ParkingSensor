@@ -1,0 +1,8 @@
+[project]
+mcu=atmega88p
+f_cpu=1000000
+[MkVersion]
+BuildVersion=1.0.0
+BuildNumber=366
+BuildTime=00:54:14
+BuildDate=2018-12-19
